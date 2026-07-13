@@ -17,7 +17,8 @@ However, the lack of public code is reflective of the sensitive and high-impact 
 ## What You *Will* Find Here
 
 While I cannot share production code, this repository contains:
-*  **Weekend model:** I wrote code to build an auto-loan model as an assignment for a job interview for a Senior Quant position at a bank. I wrote the code and created a presentation in a weekend for the interview. I got the offer. 
+*  **Weekend model:** I wrote code to build an auto-loan model as an assignment for a job interview for a Senior Quant position at a bank. I wrote the code and created a presentation in a weekend for the interview. I got the offer.
+*  **Decks:** Generalized descriptions of the types of projects I've worked on.
   
 ## Let's Connect
 
