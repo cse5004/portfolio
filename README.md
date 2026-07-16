@@ -20,7 +20,7 @@ However, the lack of public code is reflective of the sensitive and high-impact 
 While I cannot share production code, this repository contains:
 
 *   **Weekend model:** I wrote code to build an auto-loan model as an assignment for a job interview for a Senior Quant position at a bank. I wrote the code and created a presentation in a weekend for the interview. I got the offer.
-*   *  **Decks:** Generalized descriptions of the types of projects I've worked on.
+*   **Decks:** Generalized descriptions of the types of projects I've worked on.
     * *Customer Behavior Analytics Pipeline:* Large-scale pipeline for Transaction Categorization, Feature Engineering and ML modeling.
     * *Modular Logistic Regression PD Model:* Complex Probability of Default Model Framework
     * *PD Transition Matrix Model:* Risk Rating Migration and Probability of Default Transition Matrix Model 
