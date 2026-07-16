@@ -1,4 +1,6 @@
-# Christopher Ewing, PhD | Senior Data Scientist & Machine Learning Leader
+# Christopher Ewing, PhD 
+
+## Senior Data Scientist & Machine Learning Leader
 
 Welcome to my GitHub profile. I am a Senior Data Scientist with over 10 years of post-PhD experience setting technical strategy and driving the roadmap for machine learning systems. 
 
