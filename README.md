@@ -25,8 +25,7 @@ While I cannot share production code, this repository contains:
 *   **Decks:** Generalized descriptions of the types of projects I've worked on.
     * *Customer Behavior Analytics Pipeline:* Large-scale pipeline for Transaction Categorization, Feature Engineering and ML modeling.
     * *Modular Logistic Regression PD Model:* Complex Probability of Default Model Framework
-    * *PD Transition Matrix Model:* Risk Rating Migration and Probability of Default Transition Matrix Model 
-    *   *Reducing Technical Debt:* Core principles and technical strategies for coding presented internally.
+    * *PD Transition Matrix Model:* Risk Rating Migration and Probability of Default Transition Matrix Model.
   
 ## Let's Connect
 
